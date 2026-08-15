@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-dmsk75.kujang138bos.online/sitemap.xml
